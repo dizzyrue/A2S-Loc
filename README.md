@@ -6,7 +6,6 @@
 
 **A2S-Loc** (Air-to-Satellite Localization) 是一个专门为无人机（UAV）设计的卫星辅助视觉惯性定位框架。本项目旨在解决 UAV 在 GNSS 拒止环境下的高精度全球定位问题，通过融合机载图像与卫星地图实现跨视角匹配与鲁棒定位。
 
-[项目主页 (如有)] | [arXiv 论文 (待更新)] | [演示视频 (YouTube/Bilibili)]
 
 ---
 
